@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Keabetswe Masole, AKA, FadingPandaa<br><br>👨‍💻 I’m able to use HTML, CSS,  C#, JavaScript and SQL.<br>🌱 I’m currently learning PhP, JavaScript and Kotlin.<br>📝 On my learning list is Cloud Computing, DevOps, and AI.<br>⚡ Fun fact: I'm into cars, gaming, and architecture.
+Hey, I'm Keabetswe Masole, AKA, FadingPandaa<br><br>👨‍💻 I’m able to use HTML, CSS,  C#, JavaScript and SQL.<br>🌱 I’m currently learning PhP, JavaScript and Kotlin.<br>📝 On my learning list is Python, Cloud Computing, DevOps, and AI.<br>⚡ Fun fact: I'm into cars, gaming, and architectural design.
 
 
 ## 🌐 Socials:
